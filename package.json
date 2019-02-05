@@ -12,9 +12,9 @@
     "lodash": "~4.17.4"
   },
   "peerDependencies": {
-    "react": "16.0.0",
-    "react-native": ">=0.46.1",
-    "prop-types": "^15.5.10"
+    "react": "16.6.1",
+    "react-native": "0.57.5",
+    "prop-types": "^15.6.2"
   },
   "keywords": [
     "React",
